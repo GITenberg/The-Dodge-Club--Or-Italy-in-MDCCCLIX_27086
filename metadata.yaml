@@ -1,0 +1,31 @@
+_repo: The-Dodge-Club--Or-Italy-in-MDCCCLIX_27086
+_version: 0.1.0
+alternative_title: Dodge Club; Or, Italy in 1859
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Mille, James
+    aliases:
+    - DeMille, James
+    - Mille, James de
+    birthdate: 1833
+    deathdate: 1880
+    gutenberg_agent_id: '1482'
+    url: http://www.gutenberg.org/2009/agents/1482
+    wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
+description: ''
+gutenberg_issued: '2008-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Italy -- Fiction'
+title: The Dodge Club; Or, Italy in MDCCCLIX
+url: http://www.gutenberg.org/ebooks/27086
