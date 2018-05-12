@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1482
     wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27086#The-Dodge-Club--Or-Italy-in-MDCCCLIX
 gutenberg_issued: '2008-10-29'
 gutenberg_type: Text
 identifiers:
